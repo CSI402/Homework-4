@@ -5,3 +5,22 @@ Jessica Kanczura jKanczura@albany.edu : Leader
 
 functions related to the hash table
 */
+
+#include <stdio.h>
+#include 'opcodePrototypes.h'
+#include 'opcodeStruct_def.h'
+
+//insert node into hash table
+void insertNode(){
+  
+}
+
+//retrieve LC value for given symbol
+void retrieveLC(char *symbol[]){
+  
+}
+
+//print contents of table to stdout
+void printTable(){
+  
+}

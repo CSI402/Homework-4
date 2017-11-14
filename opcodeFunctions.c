@@ -5,3 +5,27 @@ Jessica Kanczura jKanczura@albany.edu : Leader
 
 Functions related to the machine opcodes
 */
+
+#include <stdio.h>
+#include 'opcodePrototypes.h'
+#include 'opcodeStruct_def.h'
+
+//inserts node into opcode table
+void insertNode(){
+  
+}
+
+//retrieve opcode based on instruction name
+void retrieveOpcode(char *instruction[]){
+  
+}
+
+//retrieve instruction format based on instruction name
+void retrieveInstructionFormat(char *instruction[]){
+  
+}
+
+//print contents of tree to stdout
+void printTree(){
+  
+}

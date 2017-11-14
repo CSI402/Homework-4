@@ -11,7 +11,7 @@ functions related to the hash table
 #include 'opcodeStruct_def.h'
 
 //insert node into hash table
-void insertNode(){
+void insertHashNode(){
   
 }
 

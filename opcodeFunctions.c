@@ -11,7 +11,7 @@ Functions related to the machine opcodes
 #include 'opcodeStruct_def.h'
 
 //inserts node into opcode table
-void insertNode(){
+void insertOpcodeNode(){
   
 }
 

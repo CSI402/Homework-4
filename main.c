@@ -7,11 +7,12 @@ Main method
 */
 
 #include <stdio.h>
-#include 'hashTablePrototypes.h'
-#include 'hashTableStruct_def.h'
-#include 'opcodePrototypes.h'
-#include 'opcodeStruct_def.h'
+#include "hashTablePrototypes.h"
+#include "hashTableStruct_def.h"
+#include "opcodePrototypes.h"
+#include "opcodeStruct_def.h"
 
 int main(int argc, char *argv[]){
   
+  return 0;
 }

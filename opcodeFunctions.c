@@ -7,8 +7,8 @@ Functions related to the machine opcodes
 */
 
 #include <stdio.h>
-#include 'opcodePrototypes.h'
-#include 'opcodeStruct_def.h'
+#include "opcodePrototypes.h"
+#include "opcodeStruct_def.h"
 
 //inserts node into opcode table
 void insertOpcodeNode(){

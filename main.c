@@ -14,5 +14,12 @@ Main method
 
 int main(int argc, char *argv[]){
   
+  //ensure correct number of command line arguments
+  if (argc != 4){
+    fprintf(stderr, "Wrong number of arguments inputted.\n");
+    return 0;
+  }
+
+  //end of main
   return 0;
 }

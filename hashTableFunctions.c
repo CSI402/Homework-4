@@ -7,8 +7,8 @@ functions related to the hash table
 */
 
 #include <stdio.h>
-#include 'opcodePrototypes.h'
-#include 'opcodeStruct_def.h'
+#include "opcodePrototypes.h"
+#include "opcodeStruct_def.h"
 
 //insert node into hash table
 void insertHashNode(){

@@ -10,5 +10,7 @@ main.o: main.c
 
 %.o: %.c
         $(CC) $(CFLAGS) -c $(OBJECTS)
+        
 clean:
         rm firstpass
+        

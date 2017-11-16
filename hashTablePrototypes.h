@@ -10,3 +10,4 @@ Prototypes used in functions related to the hash table
 void insertHashNode(); 
 void retrieveLC(char *symbol[]);
 void printTable();
+int  hashFunction(char *s,  int T);

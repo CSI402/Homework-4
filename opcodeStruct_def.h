@@ -9,8 +9,9 @@ Struct definitions for binary search tree for machine opcode table
 
 //Structure for the nodes in the opcode BST
 typedef struct opcodeNode{
-  char *key;
-  char *data;
+  char *instruction;
+  int opcode;
+  int format;
   struct opcodeNode *left;
   struct opcodeNode *right;
 } oNode;

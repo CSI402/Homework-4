@@ -11,3 +11,4 @@ void insertOpcodeNode();
 void retrieveOpcode(char *instruction[]);
 void retrieveInstructionFormat(char *instruction[]);
 void printTree();
+void fileRead(char *fileName);
